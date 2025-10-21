@@ -43,7 +43,7 @@ Also if there is no name on your USB-to-serial IC it is also by a chinese manufa
    
 8. CH340 Drivers for Windows, Mac and Linux - Gogo:Tronics
 Gogo:Tronics - [https://sparks.gogo.co.nz › ch340](https://sparks.gogo.co.nz/ch340.html)
-7. **Upload the code**: Open `jammer_esp_nrf.ino` in Arduino IDE and upload it to your ESP8266 board.
+7. **Upload the code**: Open `jammer_esp_nrf.ino` in Arduino IDE and upload it to your ESP8266 board. **The UBS-to-Micro-usb cable that you are using for connecting ESP8266 to your computer might just be a charging cable and not a data cable, check that as well (it should be a data cable)** 
 8. **Power up the device**: Connect your ESP8266 to a power source.
 
 ## 📡 Usage
