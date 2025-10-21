@@ -49,8 +49,9 @@ Gogo:Tronics - [https://sparks.gogo.co.nz › ch340](https://sparks.gogo.co.nz/c
 ## 📡 Usage
 
 When powered on, the device starts in **full Attack** mode
-You can edit the code and install button and LED display to make it more interactive. I just made it with bare minimum HW and code. You will find better versions of this here - https://projecthub.arduino.cc/willy-js/esp8266-blebluetooth-wi-fi-jammer-53ca4b
-https://github.com/EmenstaNougat/ESP32-BlueJammer/tree/main
+You can edit the code and install button and LED display to make it more interactive. I just made it with bare minimum HW and code. You will find better versions of this here:
+- https://projecthub.arduino.cc/willy-js/esp8266-blebluetooth-wi-fi-jammer-53ca4b
+- https://github.com/EmenstaNougat/ESP32-BlueJammer/tree/main
 
 **Note:** You can connect external power like small lipo batteries.
 
