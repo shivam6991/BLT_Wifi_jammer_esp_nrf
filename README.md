@@ -2,7 +2,7 @@
 Bluetooth and wifi jammer - 2.4 GHz 
 # ESP8266 BLE(Bluetooth) & Wi-Fi Jammer
 
-This project aims to develop a jammer using ESP8266 and nrf24L01+ to interfere with BLE and Wi-Fi networks. The project utilizes the RF24 library to generate interference in the 2.4 GHz bands
+This project aims to develop a jammer using ESP8266 (node MCU) and nrf24L01+ to interfere with BLE and Wi-Fi networks. The project utilizes the RF24 library to generate interference in the 2.4 GHz bands
 
 ## 📌 Requirements
 
